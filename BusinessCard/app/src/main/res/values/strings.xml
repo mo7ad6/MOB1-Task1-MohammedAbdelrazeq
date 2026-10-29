@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BusinessCard</string>
+    <string name="text1">mohammed abdelrazeq</string>
+    <string name="text2">fullstack developer</string>
+    <string name="mobilephone">972597820807</string>
+    <string name="androiddev">\@web developer</string>
+    <string name="email">mo7ad6@gmail.com</string>
+</resources>
