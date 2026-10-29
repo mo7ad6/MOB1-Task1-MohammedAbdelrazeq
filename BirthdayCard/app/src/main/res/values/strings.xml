@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Birthday Card</string>
+    <string name="textview"><b>Happy\n birthday\n ahmed!</b></string>
+    <string name="textview2"><b>from mohammed </b> </string>
+</resources>
